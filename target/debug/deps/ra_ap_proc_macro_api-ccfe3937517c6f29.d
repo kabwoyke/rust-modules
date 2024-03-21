@@ -1,9 +1,0 @@
-/home/kabwoy/rust-modules/auth_service/target/debug/deps/libra_ap_proc_macro_api-ccfe3937517c6f29.rmeta: /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ra_ap_proc_macro_api-0.0.204/src/lib.rs /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ra_ap_proc_macro_api-0.0.204/src/msg.rs /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ra_ap_proc_macro_api-0.0.204/src/msg/flat.rs /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ra_ap_proc_macro_api-0.0.204/src/process.rs /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ra_ap_proc_macro_api-0.0.204/src/version.rs
-
-/home/kabwoy/rust-modules/auth_service/target/debug/deps/ra_ap_proc_macro_api-ccfe3937517c6f29.d: /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ra_ap_proc_macro_api-0.0.204/src/lib.rs /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ra_ap_proc_macro_api-0.0.204/src/msg.rs /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ra_ap_proc_macro_api-0.0.204/src/msg/flat.rs /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ra_ap_proc_macro_api-0.0.204/src/process.rs /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ra_ap_proc_macro_api-0.0.204/src/version.rs
-
-/home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ra_ap_proc_macro_api-0.0.204/src/lib.rs:
-/home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ra_ap_proc_macro_api-0.0.204/src/msg.rs:
-/home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ra_ap_proc_macro_api-0.0.204/src/msg/flat.rs:
-/home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ra_ap_proc_macro_api-0.0.204/src/process.rs:
-/home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ra_ap_proc_macro_api-0.0.204/src/version.rs:
