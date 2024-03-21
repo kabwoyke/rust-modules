@@ -1,0 +1,8 @@
+/home/kabwoy/rust-modules/auth_service/target/debug/deps/libsalsa_macros-ef2b61b8a5734dc9.so: /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-analyzer-salsa-macros-0.17.0-pre.6/src/lib.rs /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-analyzer-salsa-macros-0.17.0-pre.6/src/database_storage.rs /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-analyzer-salsa-macros-0.17.0-pre.6/src/parenthesized.rs /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-analyzer-salsa-macros-0.17.0-pre.6/src/query_group.rs
+
+/home/kabwoy/rust-modules/auth_service/target/debug/deps/salsa_macros-ef2b61b8a5734dc9.d: /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-analyzer-salsa-macros-0.17.0-pre.6/src/lib.rs /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-analyzer-salsa-macros-0.17.0-pre.6/src/database_storage.rs /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-analyzer-salsa-macros-0.17.0-pre.6/src/parenthesized.rs /home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-analyzer-salsa-macros-0.17.0-pre.6/src/query_group.rs
+
+/home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-analyzer-salsa-macros-0.17.0-pre.6/src/lib.rs:
+/home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-analyzer-salsa-macros-0.17.0-pre.6/src/database_storage.rs:
+/home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-analyzer-salsa-macros-0.17.0-pre.6/src/parenthesized.rs:
+/home/kabwoy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-analyzer-salsa-macros-0.17.0-pre.6/src/query_group.rs:
