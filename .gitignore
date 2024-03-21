@@ -1,3 +1,44 @@
-# Generated files
+# Compiled files
 /target/
+
+# Cargo.lock file
 Cargo.lock
+
+# Generated documentation
+/doc/
+
+# Ignore binary artifacts
+**/*.rs.bk
+
+# macOS specific files
+.DS_Store
+
+# Editor-specific files
+*.swp
+*.swo
+*.swm
+*.swn
+*.swl
+*.swo
+*.swn
+*.swo
+*.swn
+*.swm
+*.swp
+*.swt
+*.swn
+*.swo
+*.swn
+*.swo
+*.swo
+*.swn
+*.swm
+*.swp
+*.swt
+*.swn
+*.swo
+*.swn
+*.swo
+
+# Visual Studio Code specific files
+.vscode/
